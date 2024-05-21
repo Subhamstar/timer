@@ -12,7 +12,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #eef1f6;
+  /* background: #eef1f6; */
+  background-image:url(1328226.png);
   /* overflow: hidden; */
 }
 .container {
@@ -23,7 +24,7 @@ body {
   padding: 60px;
   border-radius: 10px;
   color: #fff;
-  background: #6994c5;
+  /* background: #6994c5; */
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 }
 p,
